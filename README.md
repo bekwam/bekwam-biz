@@ -3,7 +3,7 @@ Demonstration of a containerized static site generated from markdown
 
 ## Some commands to support this
 
-Build the image
+Build the image.  To deploy this demonstration to Docker Hub, replace "bekwam" with the target account name.
 
     docker build -t bekwam/bekwam-biz:latest .
     
