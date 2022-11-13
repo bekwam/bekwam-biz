@@ -49,7 +49,7 @@ and retailer website before buying.
 | Bearing Hinge              | X            | X               |                 | X                    | X                   | X              |                |              |
 | Hinge Guard Block          | X            |                 |                 | X                    | X                   |                |                |              |
 | Duo Spike                  | X            | X               |                 | X                    | X                   |                |                |              |
-| Non-Loosening Tension Rod  | X            | X               | X               | X                    | X                   | X              |                |              |
+| Non-Loosening Tension Rod  | X            | X               | X               | X                    | X                   | X              | X              | X            |
 | Footboard                  | Standard     | Long            | Long            | Standard             | Standard            | Standard       | Standard       | Standard     |
 | Additional Short Rod       |              | X               |                 | X                    | X                   |                |                |              |
 | Swivel Foot                |              | X               | X               | X                    | X                   | X              | X              | X            |
